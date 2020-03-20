@@ -1,0 +1,24 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+#lan{
+    width: 10%;
+    margin: 30px auto;
+    font-size: large;
+}
+#example {
+    width: 50%;
+    margin: 0 auto;
+}
+#main {
+    width: 60%;
+    height: 80%;
+    top: 50px;
+    margin: 0 auto;
+}
+#hot-display-license-info{
+    display: none;
+}
